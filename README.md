@@ -8,7 +8,7 @@ Parts required to build this project
 
 2.HC05 Bluetooth Module
 
-3.Jumoer cables
+3.Jumper cables/wires
 
 4.Relay switch
 
