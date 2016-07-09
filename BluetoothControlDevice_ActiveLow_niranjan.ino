@@ -50,7 +50,7 @@ void loop()
     }
     
     if(inByte == 'a'){    
-      digitalWrite(PIN1, HIGH);        // switch on relay2
+      digitalWrite(PIN1, HIGH);        // switch off relay1
       Serial.print('a');         // send a char      
       status_unlock = true;
       sec = 0;
@@ -64,7 +64,7 @@ void loop()
     }
     
     if(inByte == 'b'){    
-      digitalWrite(PIN2, HIGH);        // switch on relay3
+      digitalWrite(PIN2, HIGH);        // switch off relay2
       Serial.print('b');         // send a char
       inByte = 0;     
     }
