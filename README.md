@@ -14,5 +14,8 @@ Parts required to build this project
 
 5.Some food and cold drinks(LOL)
 
+Basically the program sents a 'A' or 'B' to indicate its Power On or High state and 'a' or 'b' to indicate its power off or low state.
 
-Any problems feel free to contact me!
+You will need to install a android app on your mobile. Install from here- <b>https://iop.li/Wkw</b>
+
+Any problem feel free to contact me!
