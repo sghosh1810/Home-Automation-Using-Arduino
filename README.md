@@ -1,4 +1,4 @@
-﻿# home-automation-arduino-relay
+﻿# Smart home automation using Arduino
 This project is made by Shouak Ghosh 1st Year CSE Btech student as part of hobby!
 
 This code controls two switches(via relays) using a bluetooth module.
