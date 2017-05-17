@@ -48,7 +48,7 @@ void setup()
   digitalWrite(PIN5, HIGH);  // switch on relay5
   digitalWrite(PIN6, HIGH);  // switch on relay6
   digitalWrite(PIN7, HIGH);  // switch on relay7
-  digitalWrite(PIN1, HIGH);  // switch on relay8
+  digitalWrite(PIN8, HIGH);  // switch on relay8
 
 
   status_bluetooth = true;
